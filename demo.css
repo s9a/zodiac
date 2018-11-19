@@ -1,0 +1,20 @@
+html {
+  font-family: arial, sans-serif;
+  font-size: calc(.5rem + 2vmin + 1vmax);
+}
+
+* { font-size: inherit }
+
+.m-3 { margin: 3vw; }
+
+.galaxy {
+  list-style: none;
+  padding: 0;
+  font-family: monospace;
+  margin: 0 5vw;
+}
+
+.madlib {
+  line-height: 1.5;
+  display: flex;
+}
