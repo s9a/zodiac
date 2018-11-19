@@ -13,3 +13,9 @@
 
 .zodiac-sun { background: #fcfcfc !important; color: #111 !important }
 .zodiac-moon { background: #111 !important; color: #fcfcfc !important }
+.zodiac-eclipse {
+  background: #fcfcfc !important;
+  color: #111 !important;
+  border: 1vw solid #111 !important;
+  box-sizing: border-box;
+}

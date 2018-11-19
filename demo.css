@@ -34,9 +34,14 @@ html { font-size: calc(.5rem + 2vmin + 1vmax) }
 }
 
 @media (min-width: 60em) {
-  .galaxy-black {
-    flex-basis: 40%;
+  .element {
+    flex-basis: 41%;
   }
+
+  .cardinality {
+    flex-basis: 31%;
+  }
+
   .cluster {
     display: flex;
     flex-flow: row wrap;
